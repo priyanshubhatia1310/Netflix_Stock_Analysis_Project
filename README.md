@@ -1,7 +1,8 @@
 # Netflix_Stock_Analysis_Project
 
 OBJECTIVE:-
-1.Volume of Stock Traded
+
+1.Volume of Stock Traded.
 2.Netflix Stock Price(High,Open Close)
 3.Netflix Stock Price(Year,month,Daywise)
 4.Top 5 Dates With Highest Stock Price.
