@@ -1,18 +1,13 @@
 # Netflix_Stock_Analysis_Project
 
-OBJECTIVE:-
-
+# OBJECTIVE:-
 1.Volume of Stock Traded.
-
 2.Netflix Stock Price(High,Open Close).
-
 3.Netflix Stock Price(Year,month,Daywise).
-
 4.Top 5 Dates With Highest Stock Price.
-
 5.Top 5 Dates With Lowest Stock Price.
 
-Python Codes Summary:-
+# Python Codes Summary:-
 1. Bring in the necessary libraries. 
 2. import the CSV data
 3. To convert the date from its original object data form to the date datatype.
@@ -22,4 +17,4 @@ Python Codes Summary:-
 7. create a lineplot that displays the volume by day, month, and year.
 8. The final, but certainly not least, five dates with high and low stock values.
 
-
+# Netflix Stock Report
