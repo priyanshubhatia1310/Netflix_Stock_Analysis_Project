@@ -1,6 +1,6 @@
-## Netflix_Stock_Analysis_Project
+# Netflix_Stock_Analysis_Project
 
-### OBJECTIVE:-
+## OBJECTIVE:-
 1.Volume of Stock Traded.
 
 2.Netflix Stock Price(High,Open Close).
@@ -11,7 +11,7 @@
 
 5.Top 5 Dates With Lowest Stock Price.
 
-### Python Codes Summary:-
+## CODES SUMMARY:-
 1. Bring in the necessary libraries. 
 2. Import the CSV data
 3. To convert the date from its original object data form to the date datatype.
@@ -21,7 +21,7 @@
 7. Create a lineplot that displays the volume by day, month, and year.
 8. The final, but certainly not least, five dates with high and low stock values.
 
-### Netflix Stock Report:-
+### NETFLIX STOCK REPORT:-
 
 1. The report displays Netflix stock price statistics.
 2. It displays the volume, highest, lowest, and average stock price values.
@@ -29,4 +29,5 @@
 4. The following plot displays Netflix's opening and closing stock price each day, which we may visualize using the years, months, and days.
 5. A pie chart that displays the volume of the stock price based on the date hirerachy.
 
-
+### CONCLUSION:-
+We are able to determine that the Netflix stock price has increased over time. The stock price has increased by the duration, according to the report and the Python Visualization.Python and PowerBI are excellent tools for understanding the current state of the Netflix stock price. Knowing the stock price's position is made easy by power bi.
