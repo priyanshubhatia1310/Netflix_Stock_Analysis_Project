@@ -3,9 +3,13 @@
 OBJECTIVE:-
 
 1.Volume of Stock Traded.
-2.Netflix Stock Price(High,Open Close)
-3.Netflix Stock Price(Year,month,Daywise)
+
+2.Netflix Stock Price(High,Open Close).
+
+3.Netflix Stock Price(Year,month,Daywise).
+
 4.Top 5 Dates With Highest Stock Price.
+
 5.Top 5 Dates With Lowest Stock Price.
 
 Python Codes Summary:-
